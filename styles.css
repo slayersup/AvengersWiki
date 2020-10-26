@@ -1,0 +1,301 @@
+h1 {
+    overflow-x: visible;
+    overflow-y: visible;
+    font-size: 1.8em;
+    margin-bottom: 0.25em;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    line-height: 1.3;
+    font-weight: normal;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(162, 169, 177);
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: #000;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    direction: ltr;
+}
+
+h2 {
+    margin-top: 1em;
+    font-size: 1.2em;
+    margin-bottom: 0.25em;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    line-height: 1.3;
+    font-weight: normal;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(162, 169, 177);
+    color: #000;
+    margin-right: 0px;
+    margin-left: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    direction: ltr;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: sans-serif;
+    background-color: #f6f6f6;
+    overflow-y: scroll;
+    height: 100%;
+    display: block;
+    font-size: 100%;    
+    text-decoration:none;
+    border-bottom:1px dotted;
+    text-decoration:none;
+    border-bottom:1px solid;
+    border-bottom:none;
+}
+
+table {
+    border: 1px solid #a2a9b1;
+    background: #f8f9fa;
+    margin-bottom: .5em;
+    margin-left: 1em;
+    padding: .4em;
+    float: right;
+    clear: right;
+    font-size: 90%;
+    width: 23em;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;    
+    box-sizing: border-box;
+    display: table;
+    box-sizing: border-box;
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+tbody {    
+    display: table-row-group;
+    vertical-align: middle;
+    font-size: 90%;    
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;    
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;    
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.plainlist {
+    vertical-align: top;
+    display: table-cell;
+    text-align: -internal-center;
+    font-size: 90%;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.infobox-above {    
+    background: #cfe3ff;
+    vertical-align: top;
+    font-size: 120%;
+    text-align: center;
+    display: table-cell;
+    font-weight: bold;    
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.infobox-header {
+    background: #dcebff;
+    vertical-align: top;
+    text-align: center;
+    display: table-cell;
+    font-weight: bold;
+    font-size: 90%;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.infobox-image {    
+    padding-top: 0.75em;
+    padding-right: 0px;
+    padding-bottom: 0.75em;
+    padding-left: 0px;
+    vertical-align: top;
+    text-align: center;
+    display: table-cell;
+    font-size: 90%;
+    line-height: 1.5em;
+    border-collapse: separate;
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+}
+
+li {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.mw-body {
+    padding-top: 1.25em;
+    padding-right: 1.5em;
+    padding-bottom: 1.5em;
+    padding-left: 1.5em;
+    margin-top: -1px;
+    border: 1px solid #a7d7f9;
+    border-right-width: 0;
+    background-color: #ffffff;
+    color: #202122;
+    direction: ltr;
+    display: block;
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 1.6;
+    color: #000;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0.5em;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    direction: ltr;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 100%;
+    font-weight: bold;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 1.6;
+    margin-right: 0px;
+    margin-left: 0px;
+    color: #000;
+    padding-top: 0.5em;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    direction: ltr;
+    font-family: sans-serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: calc(1em * 0.875);
+    line-height: 1.6;
+    color: #202122;
+}
+
+ul {
+    margin-top: 0.3em;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 1.6em;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    direction: ltr;
+    font-size: calc(1em * 0.875);
+    line-height: 1.6;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.hatnote {
+    font-style: italic;
+    padding-left: 1.6em;
+    display: block;
+    direction: ltr;
+    font-size: calc(1em * 0.875);
+    line-height: 1.6;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.center-plainlist {
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+    display: table-cell;
+    font-size: 90%;
+    line-height: 1.5em;
+    border-collapse: separate;
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    direction: ltr;
+    color: #202122;
+    font-family: sans-serif;
+}
+
+.mw-headline {
+    font-size: 1.5em;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    line-height: 1.3;
+    font-weight: normal;
+    color: #000;
+    direction: ltr;
+}
